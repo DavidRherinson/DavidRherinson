@@ -4,7 +4,7 @@
 
 - 🔭 Preocurando estágio Front-end
 - 🌱 Estudando html, javascript, css e react
-- 👯 Fazendo curso da Rocktseat Pro inicio;1/11/2021
+- 👯 Fazendo curso da Rocktseat Pro inicio:01/11/2021
 - 🤔 Contate-me no gmail: davidrherinson@gmail.com
 
 <div align="center">
