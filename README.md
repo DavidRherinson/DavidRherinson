@@ -7,9 +7,9 @@
 - 👯 Fazendo curso da Rocktseat Pro inicio:01/11/2021
 - 🤔 Contate-me no gmail: davidrherinson@gmail.com
 
-<div align="center" style="display: flex">
+<div>
   <a href="https://github.com/DavidRherinson">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=DavidRherinson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=DavidRherinson&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRherinson&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
