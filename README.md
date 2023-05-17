@@ -1,11 +1,7 @@
 ### Olá! Eu sou o David Rherinson 👋
 
 
-
-- 🔭 Preocurando estágio Front-end
-- 🌱 Estudando html, javascript, css e react
-- 👯 Fazendo curso da Rocktseat Pro inicio:01/11/2021
-- 🤔 Contate-me no gmail: davidrherinson@gmail.com
+- 🌱 Estudando html, javascript, css
 
 <div style="display: flex" align="center">
   <a href="https://github.com/DavidRherinson">
