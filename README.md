@@ -26,7 +26,4 @@
   <a href="https://www.linkedin.com/in/david-rherinson/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-2. Choose "Read and write permissions" in [Workflow permissions](../../settings/actions) <p>
-3. Enable the workflow in [Actions](../../actions) <p>
-- Preview: ![Snake](https://raw.githubusercontent.com/DavidRherinson/DavidRherinson/output/github-contribution-grid-snake.svg)
-
+- Preview: ![](https://raw.githubusercontent.com/CompetitiveLin/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
