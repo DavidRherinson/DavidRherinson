@@ -3,10 +3,10 @@
 
 - 🌱 Estudando html, javascript, css e python
 
-<div style="display: flex" align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/DavidRherinson">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DavidRherinson&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRherinson&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=DavidRherinson&show_icons=true&theme=radical"/>
+  <img height="161em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRherinson&layout=compact"/>
 </div>
 
  <div style="display: inline_block" align="center"><br>
