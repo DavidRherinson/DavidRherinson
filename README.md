@@ -5,14 +5,15 @@
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/DavidRherinson">
-  <img height="165em"  src="https://github-readme-stats.vercel.app/api?username=DavidRherinson&show_icons=true&theme=radical"/>
-  <img height=""  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidRherinson&layout=compact"/>
+  <img height="165em"  src="https://github-readme-stats-sigma-five.vercel.app/api?username=DavidRherinson&show_icons=true&theme=radical"/>
+  <img height=""  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DavidRherinson&layout=compact"/>
 </div>
 
  <div style="display: inline_block" align="center"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
 </div>
 
   ##
