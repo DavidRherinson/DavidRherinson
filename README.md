@@ -1,7 +1,7 @@
 ### Olá! Eu sou o David Rherinson 👋
 
 
-- 🌱 Estudando Data Science
+- 🌱 Estudando Análise de dados
 
 <div style="display: inline_block" align="center">
   <a href="https://github.com/DavidRherinson">
