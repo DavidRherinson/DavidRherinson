@@ -3,7 +3,7 @@
 
 ### Olá! Eu sou o David Rherinson 👋
 
-<br> Estou estudando análise de dados, sou capaz de coletar, limpar, analisar e interpretar grandes conjuntos de dados usando a linguagem de programação Python..</p></br>
+<br> Estou estudando análise de dados, sou capaz de coletar, limpar, analisar e interpretar grandes conjuntos de dados usando varis ferramentas..</p></br>
 
 
 
@@ -13,7 +13,7 @@
 <p> Python
 <p> SQL
 <p> Power bi
-<p> Machine learning
+<p> Excel
 <p> Linux
 
 
